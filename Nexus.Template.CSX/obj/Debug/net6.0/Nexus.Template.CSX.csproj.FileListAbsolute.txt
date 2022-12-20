@@ -1,0 +1,12 @@
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/bin/Debug/net6.0/Nexus.Template.CSX.deps.json
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/bin/Debug/net6.0/Nexus.Template.CSX.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/bin/Debug/net6.0/Nexus.Template.CSX.pdb
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/Nexus.Template.CSX.csproj.AssemblyReference.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/Nexus.Template.CSX.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/Nexus.Template.CSX.AssemblyInfoInputs.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/Nexus.Template.CSX.AssemblyInfo.cs
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/Nexus.Template.CSX.csproj.CoreCompileInputs.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/Nexus.Template.CSX.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/refint/Nexus.Template.CSX.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/Nexus.Template.CSX.pdb
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Template.CSX/obj/Debug/net6.0/ref/Nexus.Template.CSX.dll

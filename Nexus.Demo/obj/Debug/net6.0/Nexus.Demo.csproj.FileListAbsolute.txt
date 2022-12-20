@@ -1,0 +1,15 @@
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/bin/Debug/net6.0/Nexus.Demo
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/bin/Debug/net6.0/Nexus.Demo.deps.json
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/bin/Debug/net6.0/Nexus.Demo.runtimeconfig.json
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/bin/Debug/net6.0/Nexus.Demo.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/bin/Debug/net6.0/Nexus.Demo.pdb
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/Nexus.Demo.csproj.AssemblyReference.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/Nexus.Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/Nexus.Demo.AssemblyInfoInputs.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/Nexus.Demo.AssemblyInfo.cs
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/Nexus.Demo.csproj.CoreCompileInputs.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/Nexus.Demo.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/refint/Nexus.Demo.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/Nexus.Demo.pdb
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/Nexus.Demo.genruntimeconfig.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Demo/obj/Debug/net6.0/ref/Nexus.Demo.dll

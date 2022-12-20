@@ -1,0 +1,12 @@
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/bin/Debug/net6.0/Nexus.Engine.deps.json
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/bin/Debug/net6.0/Nexus.Engine.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/bin/Debug/net6.0/Nexus.Engine.pdb
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/Nexus.Engine.csproj.AssemblyReference.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/Nexus.Engine.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/Nexus.Engine.AssemblyInfoInputs.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/Nexus.Engine.AssemblyInfo.cs
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/Nexus.Engine.csproj.CoreCompileInputs.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/Nexus.Engine.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/refint/Nexus.Engine.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/Nexus.Engine.pdb
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Engine/obj/Debug/net6.0/ref/Nexus.Engine.dll

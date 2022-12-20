@@ -1,0 +1,12 @@
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/bin/Debug/net6.0/Nexus.Rendering.OpenTK.deps.json
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/bin/Debug/net6.0/Nexus.Rendering.OpenTK.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/bin/Debug/net6.0/Nexus.Rendering.OpenTK.pdb
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/Nexus.Rendering.OpenTK.csproj.AssemblyReference.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/Nexus.Rendering.OpenTK.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/Nexus.Rendering.OpenTK.AssemblyInfoInputs.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/Nexus.Rendering.OpenTK.AssemblyInfo.cs
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/Nexus.Rendering.OpenTK.csproj.CoreCompileInputs.cache
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/Nexus.Rendering.OpenTK.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/refint/Nexus.Rendering.OpenTK.dll
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/Nexus.Rendering.OpenTK.pdb
+/Volumes/Work/Dev/GUI/Nexus/Nexus.Rendering.OpenTK/obj/Debug/net6.0/ref/Nexus.Rendering.OpenTK.dll
